@@ -1,4 +1,4 @@
-## ROBOT ROBO
+## ROBOT ROBOTITZAT
 ## About me
 I am a junior developer, corrently I know HTML / CSS, JS and Python
 ## My purpose
