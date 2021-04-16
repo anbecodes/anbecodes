@@ -1,6 +1,6 @@
 ## Hello, I'm Robot Robotitzat
 
-## about me
+### About me
 ```js
 const robot_robotitzat = {
 	code = ["HTML / CSS", "JS"],
