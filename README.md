@@ -1,14 +1,13 @@
-## Hello, I'm Robot Robotitzat
-
+## Hello, I'm anbecodes
 ### About me
 ```js
-const robot_robotitzat = {
+const anbecodes = {
 	code = ["HTML / CSS", "JS"],
     tools = ["NodeJS"],
     social_networks = [{
         youtube: "https://youtube.com/channel/UCUP4Fw1e7xrvWprLUzbOjgA",
-        twitch: "https://twitch.tv/robot_robotitzat",
-        twitter: "https://twitter.com/RobotRobotitzat",
-        instagram: "https://instagram.com/robot_robotitzat/"
+        twitch: "https://twitch.tv/anbecodes",
+        twitter: "https://twitter.com/anbecodes",
+        instagram: "https://instagram.com/anbecodes/"
     }],
 }
