@@ -2,7 +2,7 @@
 ### About me
 ```js
 const anbecodes = {
-	knowledge = ["HTML / CSS", "JS"],
+	knowledge = ["HTML / CSS", "JS", "Python"],
     social_networks = [{
         twitch: "https://twitch.tv/anbecodes",
         twitter: "https://twitter.com/anbecodes",
