@@ -7,5 +7,5 @@ I know:
 - NodeJS
 - Python3
 
-Im learning: 
+I'm learning: 
 - Kotlin
