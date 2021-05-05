@@ -2,10 +2,10 @@
 I'm a junior developer
 
 I know:
-    - HTML - CSS
-    - JavaScript
-    - NodeJS
-    - Python3
+- HTML - CSS
+- JavaScript
+- NodeJS
+- Python3
 
 Im learning: 
-    - Kotlin
+- Kotlin
