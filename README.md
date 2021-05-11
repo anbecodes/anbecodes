@@ -10,6 +10,7 @@ I know:
 I'm learning: 
 - Kotlin
 - ReactJS
+- Webpack
 
 ## Social networks
 - [Twitter](https://twitter.com/anbecodes)
