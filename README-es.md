@@ -1,5 +1,7 @@
 ## Hola, soy anbecodes 👋️
 
+[English version](https://gitlab.com/anbecodes/anbecodes/blob/master/README.md)
+
 Me considero un desarrollador junior
 
 Actualmente conozco:
@@ -17,5 +19,5 @@ Estoy aprendiendo:
 - [Twitter](https://twitter.com/anbecodes)
 - [Twitch](https://twitch.tv/anbecodes)
 - [Instagram](https://instagram.com/anbecodes)
-- [GitHub](https://github.com/anbecodes)
 - [GitLab](https://gitlab.com/anbecodes)
+- [GitHub](https://github.com/anbecodes)
