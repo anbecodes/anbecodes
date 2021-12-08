@@ -1,21 +1,19 @@
-## Hello, I'm anbecodes 👋️
+## Hola, soy anbecodes 👋️
 
-[Spanish version](https://github.com/anbecodes/anbecodes/blob/master/README-es.md)
+Me considero un desarrollador junior
 
-I consider myself a junior developer
-
-I currently know:
+Actualmente conozco:
 - HTML - CSS
 - JavaScript
 - NodeJS
 - Python3
 
-I'm learning: 
+Estoy aprendiendo: 
 - Kotlin
 - ReactJS
 - Webpack
 
-## Social networks
+## Redes sociales
 - [Twitter](https://twitter.com/anbecodes)
 - [Twitch](https://twitch.tv/anbecodes)
 - [Instagram](https://instagram.com/anbecodes)
