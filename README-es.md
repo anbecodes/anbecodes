@@ -1,6 +1,6 @@
 ## Hola, soy anbecodes 👋️
 
-[English version](https://gitlab.com/anbecodes/anbecodes/blob/master/README.md)
+[English version](https://gitlab.com/anbecodes/anbecodes/blob/main/README.md)
 
 Me considero un desarrollador junior
 
